@@ -15,3 +15,5 @@ Clearly lexicographers never heard of namespacing before.
 Escape a string with JSON.stringify - `JSON.stringify('"a"'); // "'\"a\"'"`
 
 If an event is fired in a forest and there are no event listeners, does it make a sound?
+
+If you're havin' async problems, I feel bad for you son. I got 99 problems but race conditions ain't one.
